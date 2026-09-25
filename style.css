@@ -2,4 +2,23 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    background-color: aqua;
+    color: blue;
+}
+h1 {
+    front-size: 2.5rem;
+    color: blueviolet;
+    margin-bottom: 2rem;
+}
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 12px;
+}
+footer {
+    background-color: aquamarine;
+    color: brown;
+    padding: 1rem;
+    text-align: center;
 }
